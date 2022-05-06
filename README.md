@@ -1,4 +1,6 @@
-# BINARY CLASSIFICATION
+### EX NO: 01
+### DATE: 01-04-2022
+# <p align="center"> BINARY CLASSIFICATION</p>
 ## Aim:
 To write a python program to perform binary classification.
 
@@ -13,7 +15,7 @@ such as Medical Diagnosis, Email analysis, Marketing, etc. For example, in medic
 classifier for a specific disease could take in symptoms of a patient and predict whether the patient is
 healthy or has a disease. The possible outcomes of the diagnosis are positive and negative.
 
-## Algorithm
+## Algorithm:
 
 1.Define dataset.
 2.Summarize dataset shape.
